@@ -1,4 +1,4 @@
-# PySharp
+# SharpieSnake
 
 A project for running Python inside C#, leveraging WebAssembly & WASI.
 
